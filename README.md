@@ -42,13 +42,5 @@ Example caution: Be sure to double check dependencies in `${package.json}`.
 > Multiple API configurations for various usage
 > Easy maintenance of default search keyword
 
-To Do: full version of project README.md
-  - Fork and update
-  - Export documents
 :musical_note:
-
-
-## License
-
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
 
